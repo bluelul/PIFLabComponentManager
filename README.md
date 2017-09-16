@@ -5,6 +5,10 @@ Instruction:
   - enjoy :)
   
 Author:
-  lttung1197
-  17/09/2017
-  lttung1197bt@gmail.com
+
+  - lttung1197
+  
+  - 17/09/2017
+  
+  - lttung1197bt@gmail.com
+  
